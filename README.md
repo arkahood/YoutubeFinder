@@ -1,6 +1,6 @@
 ## deploy in github pages -
 
-https://arkaepam.github.io/youtubeFinder/
+https://arkahood.github.io/YoutubeFinder/
 
 ### To Run tests use following commands in parent directory -
 
